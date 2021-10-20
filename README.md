@@ -1,0 +1,3 @@
+- 👋 Dobry! Jestem @KiT4S
+- 👀 Majster OS'ów, Sprzętu i Naprawy
+- 🎓 Obecnie uczę się w ZSNR4
