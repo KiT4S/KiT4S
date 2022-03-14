@@ -1,0 +1,218 @@
+JCTRIDX0.
+Ups! Wystąpił problem z ustawieniami urządzenia odtwarzającego.
+Zanim zaczniemy, zapoznaj się z 
+JCTRIDX1.
+instrukcjami rozwiązywania problemów tutaj.
+JCTRIDX2.
+ jeśli nadal masz problemy.
+JCTRIDX3.
+Skontaktuj się z nami
+JCTRIDX4.
+Błąd w konfiguracji dźwięku systemu. Nie można uruchomić FxSound
+JCTRIDX5.
+OK
+JCTRIDX6.
+Kliknij tutaj, aby zobaczyć, co nowego w tej wersji!
+JCTRIDX7.
+FxSound w zasobniku systemowym
+Kliknij ikone FxSound do ponownego otwarcia
+JCTRIDX8.
+Dziękujemy za korzystanie FxSound! Czy jesteś zainteresowany/a by
+wziąć udział w naszej szybkiej i zwinnej
+ankiecie, abyśmy mogli ulepszyć FxSound?
+JCTRIDX9.
+Weź udział w ankiecie.
+JCTRIDX10.
+Zastosowane zmiany w ustawieniach wstępnych nie są zapisane.
+Czy chcesz wyjść?
+JCTRIDX11.
+Zastosowane zmiany w ustawieniach wstępnych nie są zapisane.
+Czy chcesz zignorować zmiany?
+JCTRIDX12.
+Wyjście odłączone
+JCTRIDX13.
+Wyjście:
+JCTRIDX14.
+Zmiany w ustawieniach wstępnych %S są zapisane.
+JCTRIDX15.
+Nowe ustawienie wstępne %S zostało zapisane.
+JCTRIDX16.
+Osiągnięto limit nowych ustawień wstępnych.
+JCTRIDX17.
+Wstępne ustawienie %S zostało usunięte.
+JCTRIDX18.
+Ustawienia wstępne są przywracane do ustawień fabrycznych
+JCTRIDX19.
+Plik ustawień wstępnych %S już istnieje w ścieżce eksportu, czy chcesz zastąpić ten plik ustawień wstępnych?
+JCTRIDX20.
+FxSound jest %S.
+JCTRIDX21.
+Włączony
+JCTRIDX22.
+Wyłączony
+JCTRIDX23.
+Preset: %S
+JCTRIDX24.
+Clarity
+JCTRIDX25.
+Ambience
+JCTRIDX26.
+Surround Sound
+JCTRIDX27.
+Dynamic Boost
+JCTRIDX28.
+Bass Boost
+JCTRIDX29.
+Wzmacnia i podnosi jakość high-end
+wierność i obecność
+JCTRIDX30.
+Zagęszcza i wygładza dźwięk
+z kontrolowanym pogłosem
+JCTRIDX31.
+Rozszerza równowagę otoczenia lewo-prawo
+dla ekspansywnego, szerokiego dźwięku
+JCTRIDX32.
+Zwiększa ogólną głośność i równowagę
+z responsywnym przetwarzaniem
+JCTRIDX33.
+Wzmacnia niskie tony dla mocnych,
+imponujących efektów
+JCTRIDX34.
+Super niski bas. Zwiększ to, aby uzyskać więcej dudnienia i „uderzenia”, zmniejsz, jeśli jest zbyt duże dudnienie.
+JCTRIDX35.
+Środek twojego basu. Zwiększ to, aby uzyskać pełniejszy dół, zmniejsz, jeśli bas brzmi przytłaczająco.
+JCTRIDX36.
+Dolny koniec twojego średniego zakresu. Zwiększ to, aby wokale brzmiały bogato i ciepło, zmniejsz je, aby pomóc kontrolować instrumenty, które brzmią głośno i przytłumione.
+JCTRIDX37.
+Centralny punkt tonów niskich i średnich. Zwiększ to, aby wydobyć gitary elektryczne i głośność wokalu, zmniejsz, aby zredukować wszelkie „pudełkowe” tony.
+JCTRIDX38.
+Środkowy zespół średniotonowy. Zwiększ to, aby drastycznie wzmocnić instrumenty rytmiczne i uderzenia w werbel, zredukuj, aby wyciąć „nosowe” tony.
+JCTRIDX39.
+Wysoki średni zakres. Zwiększ to, aby uzyskać więcej harmoniki instrumentalnych, zmniejsz je, aby poprawić bębny, które mają zbyt dużo „kliknięcia” lub instrumenty orkiestrowe, które są przeszywające.
+JCTRIDX40.
+Dolny koniec zakresu high-end. Zwiększ to, aby uzyskać większą klarowność głosu i artykulację, zmniejsz ją i przesuń koło częstotliwości w górę i w dół, aby znaleźć i wyciąć zbyt głośne dźwięki „S” i „T”.
+JCTRIDX41.
+Rzeń high-end'u. Zwiększ to, aby dźwięk brzmiał bardziej przewiewnej, dużej przestrzeni, zmniejsz go, aby pomóc w hałasie w pomieszczeniu i niechcianym echa.
+JCTRIDX42.
+Najwyższy zakres przeciętnego ludzkiego słuchu. Zwiększ tę wartość, aby nadać dźwiękowi bardziej wyrazisty ton, z dużą ilością alikwotów. Zmniejsz go, aby usunąć syk lub boleśnie wysokie dźwięki.
+JCTRIDX43.
+To pokrętło pozwala dostosować częstotliwości, na które wpływa to pasmo korektora
+w górę lub w dół, aby celować w różne częstotliwości/tony. Suwak EQ powyżej
+kontroluje głośność tego pasma korektora. Zwiększ lub zmniejsz, aby wzmocnić lub uciąć
+część częstotliwości dźwięku, bez modyfikowania reszty dźwięku.
+JCTRIDX44.
+ZAPISZ SIĘ TERAZ
+JCTRIDX45.
+Tak
+JCTRIDX46.
+Nie
+JCTRIDX47.
+Eksportuj ustawienia wstępne
+JCTRIDX48.
+Eksportuj
+JCTRIDX49.
+Wybierz ustawienia wstępne do wyeksportowania...
+JCTRIDX50.
+Ustawienia wstępne zostały pomyślnie wyeksportowane!
+JCTRIDX51.
+Pomyślnie zaimportowano ustawienia wstępne
+JCTRIDX52.
+Zduplikowane ustawienia wstępne nie zostały zaimportowane
+JCTRIDX53.
+Importuj ustawienia wstępne
+JCTRIDX54.
+Importuj
+JCTRIDX55.
+Wybierz folder zawierający ustawienia wstępne...
+JCTRIDX56.
+Folder:
+JCTRIDX57.
+W wybranym folderze nie znaleziono wstępnie ustawionych plików.
+JCTRIDX58.
+Ustawienia
+JCTRIDX59.
+Donate
+JCTRIDX60.
+Ogólny
+JCTRIDX61.
+Pomoc
+JCTRIDX62.
+Ogólne Preferencje
+JCTRIDX63.
+Uruchom przy starcie systemu
+JCTRIDX64.
+Automatycznie przełącz się na nowo podłączone urządzenie wyjściowe
+JCTRIDX65.
+Ukryj wskazówki pomocy dotyczące sterowania dźwiękiem
+JCTRIDX66.
+Wyłącz skróty klawiaturowe
+JCTRIDX67.
+Resetowanie ustawień wstępnych do ustawień fabrycznych
+JCTRIDX68.
+Włącz/Wyłącz FxSound (Ctrl + Alt + Q)
+JCTRIDX69.
+Otwórz/Zamknij FxSound (Ctrl + Alt + E)
+JCTRIDX70.
+Zmień ustawienia wstępne (Ctrl + Alt + A / D)
+JCTRIDX71.
+Zmień urządzenie do odtwarzania (Ctrl + Alt + W / S)
+JCTRIDX72.
+Język
+JCTRIDX73.
+Wyłącz logowanie debugowania
+JCTRIDX74.
+Wersja
+JCTRIDX75.
+Wsparcie
+JCTRIDX76.
+Konserwacja
+JCTRIDX77.
+Dziennik zmian
+JCTRIDX78.
+Szybka wycieczka
+JCTRIDX79.
+Prześlij dzienniki debugowania
+JCTRIDX80.
+Centrum pomocy
+JCTRIDX81.
+Opinia
+JCTRIDX82.
+Sprawdź aktualizacje
+JCTRIDX83.
+Otwórz
+JCTRIDX84.
+Wyjdź
+JCTRIDX85.
+Wyłącz
+JCTRIDX86.
+Włącz
+JCTRIDX87.
+Wybierz ustawienie wstępne
+JCTRIDX88.
+Wybierz urządzenie do odtwarzania
+JCTRIDX89.
+Wprowadź nazwę ustawienia wstępnego
+JCTRIDX90.
+Wprowadź nową nazwę ustawienia wstępnego
+JCTRIDX91.
+Zastąp istniejące ustawienia wstępne
+JCTRIDX92.
+Zapisz nowe ustawienie wstępne
+JCTRIDX93.
+Cofnij zmiany ustawień wstępnych
+JCTRIDX94.
+Zmień nazwę ustawień wstępnych
+JCTRIDX95.
+Usuń ustawienie wstępne
+JCTRIDX96.
+Pobierz Bonusowe ustawienia wstępne
+JCTRIDX97.
+FxSound nie może odtwarzać przetworzonego dźwięku przez wybrane urządzenie wyjściowe.
+Inna aplikacja może używać go w trybie wyłączności lub urządzenie może być
+niepowiązane. Aby wyłączyć tryb wyłączności, wykonaj następujące czynności
+JCTRIDX98.
+kroki.
+JCTRIDX99.
+Kliknij tutaj, aby zapisać nowe ustawienia wstępne, nadpisać stare lub zresetować ustawienia.
+JCTRIDX100.
+Nie znaleziono pliku ustawień!
