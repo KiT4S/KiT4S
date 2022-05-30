@@ -5,7 +5,6 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/Ky4PlUdCVnTqlb4t02/giphy.gif"/>
 </div>
-<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kit4s&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
