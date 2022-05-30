@@ -1,6 +1,5 @@
-<p align="center">
 ### 🌏 Serwus!
-</p>
+
 - 👋 Jestem @KiT4S
 - 👀 Majster OS'ów, Sprzętu, Konserwacji i Naprawy
 - 🌠 Bardzo dobra robota!
