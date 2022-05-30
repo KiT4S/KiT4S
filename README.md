@@ -13,4 +13,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kit4s&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kit4s&theme=github_dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kit4s&theme=dark&background=000000)](https://git.io/streak-stats)
