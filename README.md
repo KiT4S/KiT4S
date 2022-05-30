@@ -3,7 +3,7 @@
 - 🌠 Bardzo dobra robota!
 
 <div id="header" align="left">
-  <img src="https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif"/>
+  <img src="https://media.giphy.com/media/Ky4PlUdCVnTqlb4t02/giphy.gif"/>
 </div>
 <br>
 
