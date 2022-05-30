@@ -2,8 +2,8 @@
 - 👀 Majster OS'ów, Sprzętu, Konserwacji i Naprawy
 - 🌠 Bardzo dobra robota!
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif"/>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif"/>
 </div>
 <br>
 
